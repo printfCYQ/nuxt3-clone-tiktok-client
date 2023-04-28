@@ -25,6 +25,7 @@ npx tailwindcss init
 ## nuxt icon
 
 - [https://nuxt.com/modules/icon](https://nuxt.com/modules/icon)
+- [https://icones.js.org](https://icones.js.org)
 
 ```
 pnpm install --save-dev nuxt-icon
